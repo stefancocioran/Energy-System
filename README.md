@@ -1,4 +1,4 @@
-# Proiect Energy System Etapa 2
+# Proiect Energy System 
 
 Proiectare Orientata pe Obiecte, Seriile CA, CD
 2020-2021
